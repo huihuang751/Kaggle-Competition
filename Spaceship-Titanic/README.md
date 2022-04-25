@@ -13,8 +13,8 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 Accuracy: 0.79682
 
 # My method
-`Please see my notebook to see detail`
-[Link]((https://github.com/huihuang751/Kaggle-Competition/blob/main/Spaceship-Titanic/Spaceship_Titanic_lightgbm.ipynb))
+`Please see my notebook to see detail`<br>
+[Link](./Spaceship_Titanic_lightgbm.ipynb)
 - Handling missing value from observation of PassengerId, Cavin, and Last Name.
 - Label Ecoding
 - Using XGBoost Classifier
