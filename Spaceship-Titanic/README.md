@@ -1,5 +1,5 @@
 # Spaceship Titanic
-Predict which passengers are transported to an alternate dimension
+Predict which passengers are transported to an alternate dimension. <br>
 Dataset from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 
 # Overview
